@@ -1,0 +1,15 @@
+# Editor and tooling folders
+notes/
+.vscode/
+.idea/
+*.code-workspace
+
+# Secrets: environment files and Firebase keys
+.env
+*firebase-adminsdk*.json
+google-services.json
+GoogleService-Info.plist
+
+# Local data and archives
+*.sqlite
+*.zip
